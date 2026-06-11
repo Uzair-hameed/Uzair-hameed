@@ -27,13 +27,11 @@
 <table style="border: none; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
   <tr>
     <td style="border: none; padding: 20px;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uzair-Hameed&theme=rogue&bg_color=00000000&hide_border=true&area=true" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uzair-Hameed&theme=high-contrast&bg_color=00000000&hide_border=true&area=true" width="100%"/>
     </td>
   </tr>
 </table>
 
-
-[![Uzair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uzair-Hameed&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
