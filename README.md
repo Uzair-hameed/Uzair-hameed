@@ -27,7 +27,7 @@
 <table style="border: none; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
   <tr>
     <td style="border: none; padding: 20px;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uzair-Hameed&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uzair-Hameed&theme=material-palenight&bg_color=00000000&hide_border=true&area=true" width="100%"/>
     </td>
   </tr>
 </table>
