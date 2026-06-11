@@ -4,7 +4,7 @@
   
   [![MagicRills](https://img.shields.io/badge/🎓_MagicRills-110+_AI_Tools-blue?style=for-the-badge)](https://magicrills.com)
   [![Blog Lovers](https://img.shields.io/badge/📚_BlogLovers-380+_Urdu_Articles-green?style=for-the-badge)](https://bloglovers.pk)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+  [![Email](https://img.shields.io/badge/Email-uzairhameed01%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:uzairhameed01@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Uzair--Hameed-black?style=for-the-badge&logo=github)](https://github.com/Uzair-Hameed)
 </div>
 
@@ -22,14 +22,21 @@ I am a **seasoned Trainer and Facilitator with over a decade of experience** in 
 
 I conduct both **short-term and long-term training programs** for educational institutions.
 
+📍 **Based in:** Multan, Pakistan
+
 ---
 
 ## 🎓 Education
 
-| Degree | Field | Institution |
-|--------|-------|-------------|
-| **M.Phil.** | Education | The Islamia University of Bahawalpur |
-| **M.A.** | English Literature | The Islamia University of Bahawalpur |
+| Degree | Field | Institution | Year |
+|--------|-------|-------------|------|
+| **M.Phil** | Education | The Islamia University of Bahawalpur | 2011-2013 |
+| **M.A.** | English Literature | The Islamia University of Bahawalpur | 2005-2006 |
+| **M.Ed.** | Education | University of Education, Multan Campus | 2007-2008 |
+| **B.Ed.** | Education | University of Education, Multan Campus | 2003-2004 |
+| **B.A.** | Arts | Bahauddin Zakariya University, Multan | 2001 |
+| **Intermediate** | - | BISE Multan | 1999 |
+| **Matriculation** | - | BISE Multan | 1996 |
 
 ---
 
@@ -37,15 +44,61 @@ I conduct both **short-term and long-term training programs** for educational in
 
 Throughout my career, I have served in various prestigious institutions, holding key leadership positions:
 
-| Position | Role |
-|----------|------|
-| 📍 **Regional Programme Manager** | Regional Operations & Strategy |
-| 📍 **District Manager** | District-Level Education Management |
-| 📍 **Cluster Manager** | Multi-School Coordination |
-| 📍 **Academic Planner & Monitoring Officer** | Curriculum Planning & Quality Assurance |
-| 📍 **Academic Program Manager** | Program Design & Implementation |
-| 📍 **Lecturer** | Higher Education Instruction |
-| 📍 **Trainer** | Professional Development & Capacity Building |
+| Period | Position | Organization |
+|--------|----------|--------------|
+| Mar 2024 – Present | **Teacher Educator** | Sargodhian Institute for Professional Development (SIPD), Rashidabad |
+| Aug 2023 – Mar 2024 | **Academic Program Manager** | People's School Program (PSP) & EMO School, Khairpur (PDLC - Beaconhouse) |
+| Sep 2022 – Jul 2023 | **Regional Manager & Master Trainer** | Book Wise Publications, Multan Region |
+| Dec 2019 – Sep 2022 | **Academic Officer** | PDLC (Beaconhouse School System) |
+| Mar 2019 – Nov 2019 | **Cluster Manager** | PDLC (Beaconhouse School System) |
+| Feb 2018 – Dec 2018 | **Regional Manager** | Public School Support Program (PSSP) / PEIMA, Rajanpur & D.G. Khan |
+| Mar 2017 – Jan 2018 | **District Coordinator** | NRSP, District Rajanpur |
+| Mar 2014 – Nov 2015 | **Trainer** | PEF Schools under PDLC (Beaconhouse), Multan Region |
+| Feb 2013 – Mar 2014 | **English Lecturer** | Multan College of Science and Technology (MCOST) |
+| Mar 2010 – Dec 2012 | **Lecturer in Education** | Multan College of Education |
+| Jan 2008 – Jan 2010 | **English Teacher** | Mesali Public School, Multan |
+
+---
+
+## 🚀 Key Achievements & Contributions
+
+| Achievement | Description |
+|-------------|-------------|
+| 📜 **Leadership Program** | Completed Leadership & Education Management Program for Newly Appointed Head Teachers (SPSC 2024) in collaboration with STEDA |
+| 🎓 **ECCE Diploma** | Completed 1st Batch of Diploma in ECCE 2024-2025 (affiliated with Sindh Technical Board) |
+| 📘 **Training Manual** | Developed Training Manuals for educational institutions |
+| 📊 **SDP Framework** | Developed School Development Plan (SDP) framework |
+| 🔍 **M&E Framework** | Developed Framework for Monitoring and Evaluation |
+| 📋 **CNA/TNA** | Conducted Capacity Needs Assessment / Training Needs Analysis |
+| 📰 **Newsletter** | Developed Quarterly Newsletter |
+| 📚 **Scheme of Studies** | Developed SOS for Primary Level |
+| 📝 **Item Bank** | Prepared Item Bank & Workbook for Prep Class |
+| 🏫 **School Supervision** | Supervised and managed 12+ schools in cluster-based projects |
+
+---
+
+## 🛠️ Professional Skills
+
+| Category | Skills |
+|----------|--------|
+| **Training & Development** | Teacher Training, Leadership Development, Capacity Building, TNA/CNA |
+| **School Management** | School Monitoring, Quality Assurance, Academic Administration, School Audits |
+| **Curriculum & Content** | Textbook Development, Scheme of Studies, Item Bank Development |
+| **Project Management** | Proposal Development, Report Writing, Budget Monitoring, Field Activities |
+| **Research & Analysis** | Educational Research, SPSS, Data Analysis |
+
+---
+
+## 💻 Technical & Computer Skills
+
+| Skill | Proficiency |
+|-------|-------------|
+| **MS Office Suite** | Advanced (Word, Excel, PowerPoint) |
+| **InPage** | Advanced (Urdu Typing) |
+| **Typing Speed** | English: 70 WPM, Urdu/Arabic: 40 WPM |
+| **Web Technologies** | HTML, CSS, JavaScript, GitHub, Vercel |
+| **AI Tools** | AI Tool Development, Prompt Engineering |
+| **Other** | Noting/Drafting, Internet Surfing, Software Installation |
 
 ---
 
@@ -53,21 +106,20 @@ Throughout my career, I have served in various prestigious institutions, holding
 
 | # | Project | Description | Link |
 |---|---------|-------------|------|
-| 1 | **MagicRills** | 110+ Free AI-Powered Tools for Teachers, Students, and Administrators (Lesson Planner, Quiz Generator, Urdu Worksheets, ECCE Activities, Kids Games) | [🔗 Visit](https://magicrills.com) |
-| 2 | **Blog Lovers** | 380+ Free Urdu Articles on Islamic Teachings, Education, History, English Literature, Technology, and Kids' Stories | [🔗 Visit](https://bloglovers.pk) |
+| 1 | **MagicRills** | 110+ Free AI-Powered Tools for Teachers, Students, and Administrators | [🔗 Visit](https://magicrills.com) |
+| 2 | **Blog Lovers** | 380+ Free Urdu Articles on Education, Islam, History, Literature & Technology | [🔗 Visit](https://bloglovers.pk) |
 
 ---
 
-## 🔧 Technical Skills & Tools
+## 🌍 Languages
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | HTML5, CSS3, JavaScript, React.js |
-| **Backend** | Python, Flask |
-| **Cloud & Deployment** | GitHub, Vercel, Cloudflare |
-| **Database** | TiDB, MySQL |
-| **AI & Tools** | AI Tool Development, Prompt Engineering |
-| **Other** | SEO, Google Analytics, Google Search Console |
+| Language | Proficiency |
+|----------|-------------|
+| **English** | Fluent (Spoken & Written) |
+| **Urdu** | Fluent (Spoken & Written) |
+| **Punjabi** | Fluent (Spoken) |
+| **Saraiki** | Fluent (Spoken) |
+| **Arabic** | Reading & Writing |
 
 ---
 
@@ -83,15 +135,6 @@ Throughout my career, I have served in various prestigious institutions, holding
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzair-Hameed&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Hameed&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 | Platform | Link |
@@ -99,8 +142,16 @@ Throughout my career, I have served in various prestigious institutions, holding
 | 🌐 **MagicRills** | [magicrills.com](https://magicrills.com) |
 | 📝 **Blog Lovers** | [bloglovers.pk](https://bloglovers.pk) |
 | 🐙 **GitHub** | [github.com/Uzair-Hameed](https://github.com/Uzair-Hameed) |
-| 📧 **Email** | [your-email@example.com] |
-| 🔗 **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+| 📧 **Email** | [uzairhameed01@gmail.com](mailto:uzairhameed01@gmail.com) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uzair-Hameed&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Hameed&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
