@@ -2,7 +2,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=600&lines=Muhammad+Uzair+Hameed;Education+%26+Leadership+Professional;Trainer+%26+Facilitator;EdTech+Founder" alt="Typing Animation" />
 
-[![Uzair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uzair-Hameed&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   <br>
   
   [![MagicRills](https://img.shields.io/badge/🎓_MagicRills-110+_AI_Tools-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://magicrills.com)
@@ -32,6 +32,8 @@
   </tr>
 </table>
 
+
+[![Uzair's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Uzair-Hameed&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
